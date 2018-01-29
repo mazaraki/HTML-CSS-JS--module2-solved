@@ -27,8 +27,6 @@ section {
 }
 
 section h2 {
-  /*border-bottom: 1px solid #000000;
-  border-left: 1px solid #000000;*/
   border: 1px solid #000000;
   margin: 0 0 0 60%;
   font-size: 1.25em;
