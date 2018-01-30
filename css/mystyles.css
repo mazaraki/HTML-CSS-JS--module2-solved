@@ -110,6 +110,9 @@ section p {
     float: left;
     width: 30.2%;
   }
+  #chicken, footer {
+    margin-left: 2em;
+  }
   #beef {
     margin: 0 1em;
   }
